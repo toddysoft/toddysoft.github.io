@@ -1,0 +1,1 @@
+import{i as t,a as i}from"./ignition-request-form.woQh8l2A.js";t(),i({submitLabels:{Trial:"Request Trial License",Quote:"Request Quote","Trial and Quote":"Request Trial and Quote",Beta:"Request Beta Access"},subjects:{beta:e=>`Ignition Beta Access Request: ${e}`,module:e=>`Ignition Module Request: ${e}`}});
