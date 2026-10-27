@@ -1,0 +1,1 @@
+import{i as t,a as s}from"./ignition-request-form.B40MU1wR.js";t(),s({submitLabels:{Trial:"Request Trial License",Quote:"Request Quote","Trial and Quote":"Request Trial and Quote",Beta:"Request Beta Access"},subjects:{beta:e=>`StreamPipes Beta Access Request: ${e}`,module:e=>`StreamPipes Adapter Request: ${e}`}});
