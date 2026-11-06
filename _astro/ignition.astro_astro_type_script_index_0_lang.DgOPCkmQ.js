@@ -1,0 +1,1 @@
+import{i as e,a}from"./ignition-request-form.B40MU1wR.js";e(),a({submitLabels:{Trial:"Testlizenz anfordern",Quote:"Angebot anfordern","Trial and Quote":"Testlizenz und Angebot anfordern",Beta:"Beta-Zugang anfordern"},subjects:{beta:e=>`Ignition Beta-Zugang-Anfrage: ${e}`,module:e=>`Ignition-Modul-Anfrage: ${e}`}});
