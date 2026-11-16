@@ -1,0 +1,1 @@
+import{i as t,a}from"./ignition-request-form.Cb84f1_M.js";t(),a({submitLabels:{Trial:"Request Trial License",Quote:"Request Quote","Trial and Quote":"Request Trial and Quote",Beta:"Request Beta Access"},subjects:{beta:e=>`Kafka Connect Beta Access Request: ${e}`,module:e=>`Kafka Connect Connector Request: ${e}`}});
