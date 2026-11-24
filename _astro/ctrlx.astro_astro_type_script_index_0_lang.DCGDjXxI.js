@@ -1,0 +1,1 @@
+import{i as n,a as r}from"./ignition-request-form.Cb84f1_M.js";n(),r({submitLabels:{Trial:"Testversion anfordern",Quote:"Angebot anfordern","Trial and Quote":"Testversion und Angebot anfordern",Beta:"Beta-Zugang anfordern"},subjects:{beta:e=>`ctrlX-App Beta-Zugang-Anfrage: ${e}`,module:e=>`ctrlX-App-Anfrage: ${e}`}});

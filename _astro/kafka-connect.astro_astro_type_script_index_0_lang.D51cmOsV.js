@@ -1,0 +1,1 @@
+import{i as e,a}from"./ignition-request-form.Cb84f1_M.js";e(),a({submitLabels:{Trial:"Testlizenz anfordern",Quote:"Angebot anfordern","Trial and Quote":"Testlizenz und Angebot anfordern",Beta:"Beta-Zugang anfordern"},subjects:{beta:e=>`Kafka Connect Beta-Zugang-Anfrage: ${e}`,module:e=>`Kafka-Connect-Konnektor-Anfrage: ${e}`}});
